@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="save_running_times.num_videos" />
+          <option value="drop_lost_score.value" />
+          <option value="string_test.user_string" />
+          <option value="birthdays.birthdays" />
+          <option value="birthdays.add" />
+          <option value="birthdays.delete" />
+          <option value="birthdays.*" />
+          <option value="Employee.self" />
+          <option value="Employee.set2" />
+          <option value="recur.factorial" />
+          <option value="isPhoneNumber.len" />
+          <option value="calQuantity.*" />
+          <option value="globaldemo.print" />
+          <option value="myFunction.print" />
+          <option value="market.urls.django" />
+          <option value="main.apps.django" />
+          <option value="json.dumps" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
